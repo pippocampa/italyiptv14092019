@@ -1,0 +1,1271 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="" group-title="Top Italia",Rai 1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/1
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="" group-title="Top Italia",Rai 2 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2
+#EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="" group-title="Top Italia",Rai 3 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3
+#EXTINF:-1 tvg-ID="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="" group-title="Top Italia",Rete 4 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4
+#EXTINF:-1 tvg-ID="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="" group-title="Top Italia",Canale 5 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5
+#EXTINF:-1 tvg-ID="Italia1.it" tvg-name="Italia 1 HD" tvg-logo="" group-title="Top Italia",Italia 1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6
+#EXTINF:-1 tvg-ID="La7.it" tvg-name="La 7 HD" tvg-logo="" group-title="Top Italia",La 7 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7
+#EXTINF:-1 tvg-ID="Tv8.it" tvg-name="TV 8 HD" tvg-logo="" group-title="Top Italia",TV 8 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10
+#EXTINF:-1 tvg-ID="RSILa1.ch" tvg-name="RSI La 1 HD" tvg-logo="" group-title="Top Italia",RSI La 1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11
+#EXTINF:-1 tvg-ID="RSILa2.ch" tvg-name="RSI La 2 HD" tvg-logo="" group-title="Top Italia",RSI La 2 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/12
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Cinema HD ---------" tvg-logo="" group-title="Cinema",---------- Cinema HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13
+#EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="tcp://127.0.0.1:2401?listen" group-title="Cinema",Sky Cinema Uno HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/14
+#EXTINF:-1 tvg-ID="SkyCinemaPlus24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="tcp://127.0.0.1:2403?listen" group-title="Cinema",Sky Cinema Uno +24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16
+#EXTINF:-1 tvg-ID="SkyCinemaDue.it" tvg-name="Sky Cinema Due HD" tvg-logo="tcp://127.0.0.1:2411?listen" group-title="Cinema",Sky Cinema Due HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23
+#EXTINF:-1 tvg-ID="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 HD" tvg-logo="tcp://127.0.0.1:2402?listen" group-title="Cinema",Sky Cinema Due +24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/15
+#EXTINF:-1 tvg-ID="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="tcp://127.0.0.1:2404?listen" group-title="Cinema",Sky Cinema Collection HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD" tvg-logo="tcp://127.0.0.1:2805?listen" group-title="Cinema",Sky Cinema Family HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18
+#EXTINF:-1 tvg-ID="SKY Cinema Family  +1 HD" tvg-name="Sky Cinema Family +1 HD" tvg-logo="" group-title="Cinema",Sky Cinema Family +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/116
+#EXTINF:-1 tvg-ID="SkyCinemaAction.it" tvg-name="Sky Cinema Action HD" tvg-logo="tcp://127.0.0.1:2409?listen" group-title="Cinema",Sky Cinema Action HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21
+#EXTINF:-1 tvg-ID="SkyCinemaMaxPlus1.it" tvg-name="Sky Cinema Action +1 HD" tvg-logo="tcp://127.0.0.1:2410?listen" group-title="Cinema",Sky Cinema Action +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22
+#EXTINF:-1 tvg-ID="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="" group-title="Cinema",Sky Cinema Suspense HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26311
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="tcp://127.0.0.1:2412?listen" group-title="Cinema",Sky Cinema Drama HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24
+#EXTINF:-1 tvg-ID="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="tcp://127.0.0.1:2407?listen" group-title="Cinema",Sky Cinema Romance HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="tcp://127.0.0.1:2408?listen" group-title="Cinema",Sky Cinema Comedy HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD Cinema Comedy HD" tvg-logo="" group-title="Cinema",CR-WoD Cinema Comedy HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/28063
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD Cinema Action HD" tvg-logo="" group-title="Cinema",CR-WoD Cinema Action HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26889
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD Cinema Drama HD" tvg-logo="" group-title="Cinema",CR-WoD Cinema Drama HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26930
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD Cinema Horror" tvg-logo="" group-title="Cinema",CR-WoD Cinema Horror
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/28064
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD Cinema Thriller HD" tvg-logo="" group-title="Cinema",CR-WoD Cinema Thriller HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/28065
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD Cinema Random HD" tvg-logo="" group-title="Cinema",CR-WoD Cinema Random HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26839
+#EXTINF:-1 tvg-ID="CineSonyItalia.it" tvg-name="Cine Sony" tvg-logo="tcp://127.0.0.1:2641?listen" group-title="Cinema",Cine Sony
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13016
+#EXTINF:-1 tvg-ID="RaiMovie.it" tvg-name="Rai Movie HD" tvg-logo="" group-title="Cinema",Rai Movie HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/45
+#EXTINF:-1 tvg-ID="Iris.it" tvg-name="Iris" tvg-logo="" group-title="Cinema",Iris
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/44
+#EXTINF:-1 tvg-ID="ParamountChannel.it" tvg-name="Paramount Network HD" tvg-logo="" group-title="Cinema",Paramount Network HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/189
+#EXTINF:-1 tvg-ID="" tvg-name="Canale 8" tvg-logo="" group-title="Cinema",Canale 8
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10915
+#EXTINF:-1 tvg-ID="" tvg-name="----------   Intrattenimento HD ---------" tvg-logo="" group-title="Intrattenimento",----------   Intrattenimento HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25
+#EXTINF:-1 tvg-ID="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="tcp://127.0.0.1:2414?listen" group-title="Intrattenimento",Sky Uno HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/27
+#EXTINF:-1 tvg-ID="SkyUnoPlus1.it" tvg-name="Sky Uno +1 HD" tvg-logo="" group-title="Intrattenimento",Sky Uno +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/113
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="#tcp://127.0.0.1:2702?listen" group-title="Intrattenimento",Sky Atlantic HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/28
+#EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="" group-title="Intrattenimento",Sky Atlantic +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/29
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD" tvg-logo="tcp://127.0.0.1:2418?listen" group-title="Intrattenimento",Fox HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1 HD" tvg-logo="" group-title="Intrattenimento",Fox +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4488
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="tcp://127.0.0.1:2704?listen" group-title="Intrattenimento",Fox Life HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/32
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1 HD" tvg-logo="" group-title="Intrattenimento",Fox Life +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4489
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="tcp://127.0.0.1:2424?listen" group-title="Intrattenimento",Fox Comedy HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/36
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="tcp://127.0.0.1:2425?listen" group-title="Intrattenimento",Fox Animation HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/37
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="tcp://127.0.0.1:2309?listen" group-title="Intrattenimento",Fox Crime HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/34
+#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1 HD" tvg-logo="" group-title="Intrattenimento",Fox Crime +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4490
+#EXTINF:-1 tvg-ID="FoxCrimePlus2.it" tvg-name="Fox Crime +2 HD" tvg-logo="" group-title="Intrattenimento",Fox Crime +2 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/14373
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="Crime Investigation HD" tvg-logo="tcp://127.0.0.1:2457?listen" group-title="Intrattenimento",Crime Investigation HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/35
+#EXTINF:-1 tvg-ID="TopCrime.it" tvg-name="Top Crime" tvg-logo="" group-title="Intrattenimento",Top Crime
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/47
+#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Blaze HD" tvg-logo="tcp://127.0.0.1:2405?listen" group-title="Intrattenimento",Blaze HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/9001
+#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="tcp://127.0.0.1:2607?listen" group-title="Intrattenimento",Comedy Central
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6608
+#EXTINF:-1 tvg-ID="ComedyPlus1.it" tvg-name="Comedy Central +1" tvg-logo="" group-title="Intrattenimento",Comedy Central +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6609
+#EXTINF:-1 tvg-ID="LEI.it" tvg-name="Lei" tvg-logo="tcp://127.0.0.1:2428?listen" group-title="Intrattenimento",Lei
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/40
+#EXTINF:-1 tvg-ID="LEIPlus1.it" tvg-name="Lei +1" tvg-logo="" group-title="Intrattenimento",Lei +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/324
+#EXTINF:-1 tvg-ID="RealTime.it" tvg-name="Real Time HD" tvg-logo="" group-title="Intrattenimento",Real Time HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/41
+#EXTINF:-1 tvg-ID="RealTimePlus1.it" tvg-name="Real Time +1" tvg-logo="" group-title="Intrattenimento",Real Time +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/190
+#EXTINF:-1 tvg-ID="DMAX.it" tvg-name="Dmax HD" tvg-logo="" group-title="Intrattenimento",Dmax HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/100
+#EXTINF:-1 tvg-ID="DMAXPlus1.it" tvg-name="Dmax +1 HD" tvg-logo="http://open-space-233.net-service.cc:63434/live/victors/8TsKZKpA0jf/149.ts" group-title="Intrattenimento",Dmax +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/191
+#EXTINF:-1 tvg-ID="Nove.it" tvg-name="Nove HD" tvg-logo="" group-title="Intrattenimento",Nove HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/50
+#EXTINF:-1 tvg-ID="DeejayTVPlus1.it" tvg-name="Nove +1 HD" tvg-logo="" group-title="Intrattenimento",Nove +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/1630
+#EXTINF:-1 tvg-ID="Cielo.it" tvg-name="Cielo HD" tvg-logo="" group-title="Intrattenimento",Cielo HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/42
+#EXTINF:-1 tvg-ID="Spike.it" tvg-name="Spike" tvg-logo="" group-title="Intrattenimento",Spike
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/15438
+#EXTINF:-1 tvg-ID="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="" group-title="Intrattenimento",Rai 4 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/142
+#EXTINF:-1 tvg-ID="Rai5.it" tvg-name="Rai 5 HD" tvg-logo="" group-title="Intrattenimento",Rai 5 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/127
+#EXTINF:-1 tvg-ID="RaiPremium.it" tvg-name="Rai Premium HD" tvg-logo="" group-title="Intrattenimento",Rai Premium HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/150
+#EXTINF:-1 tvg-ID="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="tcp://127.0.0.1:2673?listen" group-title="Intrattenimento",Mediaset Extra
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/151
+#EXTINF:-1 tvg-ID="" tvg-name="Mediaset Italia 2" tvg-logo="" group-title="Intrattenimento",Mediaset Italia 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6973
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="20 Mediaset HD" tvg-logo="tcp://127.0.0.1:2670?listen" group-title="Intrattenimento",20 Mediaset HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17720
+#EXTINF:-1 tvg-ID="Giallo.it" tvg-name="Giallo" tvg-logo="" group-title="Intrattenimento",Giallo
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/48
+#EXTINF:-1 tvg-ID="LA5.it" tvg-name="La 5" tvg-logo="" group-title="Intrattenimento",La 5
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/46
+#EXTINF:-1 tvg-ID="La7d.it" tvg-name="La 7d HD" tvg-logo="" group-title="Intrattenimento",La 7d HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8
+#EXTINF:-1 tvg-ID="TV2000.it" tvg-name="TV 2000" tvg-logo="" group-title="Intrattenimento",TV 2000
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/49
+#EXTINF:-1 tvg-ID="" tvg-name="E! Entertainm" tvg-logo="" group-title="Intrattenimento",E! Entertainm
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16332
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD Mr. Bean" tvg-logo="" group-title="Intrattenimento",CR-WOD Mr. Bean
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26852
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SUPERCAR STAGIONE 1" tvg-logo="" group-title="Intrattenimento",CR-WOD SUPERCAR STAGIONE 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3872
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SUPERCAR STAGIONE 2" tvg-logo="" group-title="Intrattenimento",CR-WOD SUPERCAR STAGIONE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3945
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Sport HD ---------" tvg-logo="" group-title="Sport",---------- Sport HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/51
+#EXTINF:-1 tvg-ID="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="tcp://127.0.0.1:2429?listen" group-title="Sport",Sky Sport 24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/52
+#EXTINF:-1 tvg-ID="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="tcp://127.0.0.1:2430?listen" group-title="Sport",Sky Sport Uno HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/53
+#EXTINF:-1 tvg-ID="SkySportFootball.it" tvg-name="Sky Sport Football HD" tvg-logo="tcp://127.0.0.1:2432?listen" group-title="Sport",Sky Sport Football HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/55
+#EXTINF:-1 tvg-ID="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="tcp://127.0.0.1:2431?listen" group-title="Sport",Sky Sport Arena HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/54
+#EXTINF:-1 tvg-ID="SkySportGolf.it" tvg-name="Sky Sport Golf HD" tvg-logo="" group-title="Sport",Sky Sport Golf HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19522
+#EXTINF:-1 tvg-ID="SkySportNBA.it" tvg-name="Sky Sport NBA HD" tvg-logo="tcp://127.0.0.1:2433?listen" group-title="Sport",Sky Sport NBA HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/56
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Formula 1 HD" tvg-logo="tcp://127.0.0.1:2451?listen" group-title="Sport",Sky Formula 1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/59
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Moto GP HD" tvg-logo="tcp://127.0.0.1:2435?listen" group-title="Sport",Sky Moto GP HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/60
+#EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="Bike Channel HD" tvg-logo="tcp://127.0.0.1:2436?listen" group-title="Sport",Bike Channel HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/66
+#EXTINF:-1 tvg-ID="Eurosport1.it" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Sport",Eurosport 1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/64
+#EXTINF:-1 tvg-ID="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/65
+#EXTINF:-1 tvg-ID="InvestigationDiscovery.it" tvg-name="Sportitalia" tvg-logo="tcp://127.0.0.1:2301?listen" group-title="Sport",Sportitalia
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/58
+#EXTINF:-1 tvg-ID="" tvg-name="Sportitalia Live 24 HD" tvg-logo="" group-title="Sport",Sportitalia Live 24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/29555
+#EXTINF:-1 tvg-ID="" tvg-name="SportItalia SoloCalcio HD" tvg-logo="" group-title="Sport",SportItalia SoloCalcio HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/29582
+#EXTINF:-1 tvg-ID="" tvg-name="SportItalia Motori HD" tvg-logo="" group-title="Sport",SportItalia Motori HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/29581
+#EXTINF:-1 tvg-ID="TopCalcio24.it" tvg-name="Top Calcio" tvg-logo="" group-title="Sport",Top Calcio
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/159
+#EXTINF:-1 tvg-ID="RaiSport.it" tvg-name="Rai Sport + HD" tvg-logo="" group-title="Sport",Rai Sport + HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/1360
+#EXTINF:-1 tvg-ID="AutoMotoTV.it" tvg-name="AutoMoto Tv" tvg-logo="" group-title="Sport",AutoMoto Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/153
+#EXTINF:-1 tvg-ID="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="" group-title="Sport",Motor Trend
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24625
+#EXTINF:-1 tvg-ID="SuperTennis.it" tvg-name="SuperTennis HD" tvg-logo="" group-title="Sport",SuperTennis HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/63
+#EXTINF:-1 tvg-ID="UnireSat.it" tvg-name="Unire Sat HD" tvg-logo="" group-title="Sport",Unire Sat HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7830
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Basket Serie A -------------" tvg-logo="" group-title="Sport",---------- Basket Serie A -------------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25390
+#EXTINF:-1 tvg-ID="" tvg-name="Basket Sport 1 Serie A" tvg-logo="" group-title="Sport",Basket Sport 1 Serie A
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25391
+#EXTINF:-1 tvg-ID="" tvg-name="Basket Sport 2 Serie A" tvg-logo="" group-title="Sport",Basket Sport 2 Serie A
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25392
+#EXTINF:-1 tvg-ID="" tvg-name="Basket Sport 3 Serie A" tvg-logo="" group-title="Sport",Basket Sport 3 Serie A
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25393
+#EXTINF:-1 tvg-ID="" tvg-name="Basket Sport 4 Serie A" tvg-logo="" group-title="Sport",Basket Sport 4 Serie A
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25394
+#EXTINF:-1 tvg-ID="" tvg-name="Basket Sport 5 Serie A" tvg-logo="" group-title="Sport",Basket Sport 5 Serie A
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25396
+#EXTINF:-1 tvg-ID="" tvg-name="Basket Sport 6 Serie A" tvg-logo="" group-title="Sport",Basket Sport 6 Serie A
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25397
+#EXTINF:-1 tvg-ID="" tvg-name="------------ Calcio HD ---------" tvg-logo="" group-title="Calcio",------------ Calcio HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/74
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Info" tvg-logo="" group-title="Calcio",Sky Sport Info
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6791
+#EXTINF:-1 tvg-ID="" tvg-name="Serie A Calcio 1 HD Lingua Straniera" tvg-logo="#/home/xtreamcodes/iptv_xtream_codes/movies/5258.mkv" group-title="Calcio",Serie A Calcio 1 HD Lingua Straniera
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20445
+#EXTINF:-1 tvg-ID="" tvg-name="Serie A Calcio 2 HD Lingua Straniera" tvg-logo="" group-title="Calcio",Serie A Calcio 2 HD Lingua Straniera
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24635
+#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="Sky Sport Serie A HD" tvg-logo="tcp://127.0.0.1:2442?listen" group-title="Calcio",Sky Sport Serie A HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/75
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Sport 251 HD" tvg-logo="tcp://127.0.0.1:2443?listen" group-title="Calcio",Sky Sport 251 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/76
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Sport 251 +1 HD" tvg-logo="" group-title="Calcio",Sky Sport 251 +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6410
+#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="Sky Sport 252 HD" tvg-logo="tcp://127.0.0.1:2444?listen" group-title="Calcio",Sky Sport 252 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/77
+#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="Sky Sport 253 HD" tvg-logo="tcp://127.0.0.1:2445?listen" group-title="Calcio",Sky Sport 253 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/78
+#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="Sky Sport 254 HD" tvg-logo="tcp://127.0.0.1:2446?listen" group-title="Calcio",Sky Sport 254 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/79
+#EXTINF:-1 tvg-ID="SkySport255.it" tvg-name="Sky Sport 255 HD" tvg-logo="tcp://127.0.0.1:2660?listen" group-title="Calcio",Sky Sport 255 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/80
+#EXTINF:-1 tvg-ID="SkySport256.it" tvg-name="Sky Sport 256 HD" tvg-logo="tcp://127.0.0.1:2448?listen" group-title="Calcio",Sky Sport 256 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/81
+#EXTINF:-1 tvg-ID="SkySport257.it" tvg-name="Sky Sport 257 HD" tvg-logo="tcp://127.0.0.1:2449?listen" group-title="Calcio",Sky Sport 257 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/82
+#EXTINF:-1 tvg-ID="SkySport258.it" tvg-name="Sky Sport 258 HD" tvg-logo="tcp://127.0.0.1:2450?listen" group-title="Calcio",Sky Sport 258 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/83
+#EXTINF:-1 tvg-ID="MilanTV.it" tvg-name="Milan Tv" tvg-logo="tcp://127.0.0.1:2437?listen" group-title="Calcio",Milan Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/88
+#EXTINF:-1 tvg-ID="InterChannel.it" tvg-name="Inter Tv" tvg-logo="tcp://127.0.0.1:2438?listen" group-title="Calcio",Inter Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/87
+#EXTINF:-1 tvg-ID="Roma Channel HD" tvg-name="Roma TV" tvg-logo="tcp://127.0.0.1:2440?listen" group-title="Calcio",Roma TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/89
+#EXTINF:-1 tvg-ID="LazioStyleChannel.it" tvg-name="Lazio Style Channel" tvg-logo="tcp://127.0.0.1:2441?listen" group-title="Calcio",Lazio Style Channel
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/90
+#EXTINF:-1 tvg-ID="TorinoChannel.it" tvg-name="Torino Channel" tvg-logo="tcp://127.0.0.1:2453?listen" group-title="Calcio",Torino Channel
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11212
+#EXTINF:-1 tvg-ID="" tvg-name="--------- Dazn ---------" tvg-logo="" group-title="Calcio",--------- Dazn ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19914
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport Info" tvg-logo="" group-title="Calcio",Dazn Sport Info
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24634
+#EXTINF:-1 tvg-ID="DAZN1BarHD.it" tvg-name="Dazn 1 Serie A HD" tvg-logo="#tcp://127.0.0.1:2674?listen" group-title="Calcio",Dazn 1 Serie A HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19916
+#EXTINF:-1 tvg-ID="DAZN1BarHD.it" tvg-name="Dazn 1 Serie A SD" tvg-logo="" group-title="Calcio",Dazn 1 Serie A SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25448
+#EXTINF:-1 tvg-ID="DAZN1.it" tvg-name="Dazn 2 Serie A HD" tvg-logo="#tcp://127.0.0.1:2674?listen" group-title="Calcio",Dazn 2 Serie A HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19917
+#EXTINF:-1 tvg-ID="DAZN1.it" tvg-name="Dazn 2 Serie A SD" tvg-logo="" group-title="Calcio",Dazn 2 Serie A SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25449
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn 3 Serie A HD" tvg-logo="" group-title="Calcio",Dazn 3 Serie A HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26690
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn 4 Serie A HD" tvg-logo="" group-title="Calcio",Dazn 4 Serie A HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26881
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 1 HD" tvg-logo="#tcp://127.0.0.1:2676?listen" group-title="Calcio",Dazn Sport 1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19918
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 2 HD" tvg-logo="#tcp://127.0.0.1:2677?listen" group-title="Calcio",Dazn Sport 2 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19919
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 3 HD" tvg-logo="#tcp://127.0.0.1:2678?listen" group-title="Calcio",Dazn Sport 3 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19920
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 4 HD" tvg-logo="#tcp://127.0.0.1:2679?listen" group-title="Calcio",Dazn Sport 4 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19921
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 5 HD" tvg-logo="#tcp://127.0.0.1:2680?listen" group-title="Calcio",Dazn Sport 5 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19922
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 6 HD" tvg-logo="#tcp://127.0.0.1:2681?listen" group-title="Calcio",Dazn Sport 6 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19923
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 7 HD" tvg-logo="" group-title="Calcio",Dazn Sport 7 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19924
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 8 HD" tvg-logo="#tcp://127.0.0.1:2683?listen" group-title="Calcio",Dazn Sport 8 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19925
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 9 HD" tvg-logo="#tcp://127.0.0.1:2684?listen" group-title="Calcio",Dazn Sport 9 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19926
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 10 HD" tvg-logo="#tcp://127.0.0.1:2685?listen" group-title="Calcio",Dazn Sport 10 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19927
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 11 HD" tvg-logo="#tcp://127.0.0.1:2686?listen" group-title="Calcio",Dazn Sport 11 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19928
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 12 HD" tvg-logo="#tcp://127.0.0.1:2687?listen" group-title="Calcio",Dazn Sport 12 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22492
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 13 HD" tvg-logo="#tcp://127.0.0.1:2688?listen" group-title="Calcio",Dazn Sport 13 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22493
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 14 HD" tvg-logo="#tcp://127.0.0.1:2689?listen" group-title="Calcio",Dazn Sport 14 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23635
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Sport 15 HD" tvg-logo="#tcp://127.0.0.1:2690?listen" group-title="Calcio",Dazn Sport 15 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23637
+#EXTINF:-1 tvg-ID="" tvg-name="--------- Lega Pro Serie C ---------" tvg-logo="" group-title="Calcio",--------- Lega Pro Serie C ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/12289
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Albinoleffe" tvg-logo="" group-title="Calcio",LEGA PRO | Albinoleffe
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30706
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Albissola" tvg-logo="" group-title="Calcio",LEGA PRO | Albissola
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30705
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Alessandria" tvg-logo="" group-title="Calcio",LEGA PRO | Alessandria
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30704
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Alto Adige" tvg-logo="" group-title="Calcio",LEGA PRO | Alto Adige
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30703
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Arezzo" tvg-logo="" group-title="Calcio",LEGA PRO | Arezzo
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30702
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Arzachena" tvg-logo="" group-title="Calcio",LEGA PRO | Arzachena
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30701
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Avellino" tvg-logo="" group-title="Calcio",LEGA PRO | Avellino
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30700
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | AZ Picerno" tvg-logo="" group-title="Calcio",LEGA PRO | AZ Picerno
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30699
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Bari" tvg-logo="" group-title="Calcio",LEGA PRO | Bari
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30698
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Bisceglie" tvg-logo="" group-title="Calcio",LEGA PRO | Bisceglie
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30697
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Carpi" tvg-logo="" group-title="Calcio",LEGA PRO | Carpi
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30696
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Carrarese" tvg-logo="" group-title="Calcio",LEGA PRO | Carrarese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30695
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Casertana" tvg-logo="" group-title="Calcio",LEGA PRO | Casertana
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30694
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | CATANIA" tvg-logo="" group-title="Calcio",LEGA PRO | CATANIA
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30693
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Catanzaro" tvg-logo="" group-title="Calcio",LEGA PRO | Catanzaro
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30692
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Cavese" tvg-logo="" group-title="Calcio",LEGA PRO | Cavese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30691
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Cesena" tvg-logo="" group-title="Calcio",LEGA PRO | Cesena
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30690
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Como" tvg-logo="" group-title="Calcio",LEGA PRO | Como
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30689
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Cuneo" tvg-logo="" group-title="Calcio",LEGA PRO | Cuneo
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30688
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Fano" tvg-logo="" group-title="Calcio",LEGA PRO | Fano
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30687
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Feralpi sal" tvg-logo="" group-title="Calcio",LEGA PRO | Feralpi sal
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30686
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Feralpisal" tvg-logo="" group-title="Calcio",LEGA PRO | Feralpisal
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30685
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Fermana" tvg-logo="" group-title="Calcio",LEGA PRO | Fermana
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30684
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Francavilla" tvg-logo="" group-title="Calcio",LEGA PRO | Francavilla
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30683
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Giana Erminio" tvg-logo="" group-title="Calcio",LEGA PRO | Giana Erminio
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30682
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Gozzano" tvg-logo="" group-title="Calcio",LEGA PRO | Gozzano
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30681
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Gubbio" tvg-logo="" group-title="Calcio",LEGA PRO | Gubbio
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30680
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Imolese" tvg-logo="" group-title="Calcio",LEGA PRO | Imolese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30679
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Juve Stabia" tvg-logo="" group-title="Calcio",LEGA PRO | Juve Stabia
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30678
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Juventus 23" tvg-logo="" group-title="Calcio",LEGA PRO | Juventus 23
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30677
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Lucchese" tvg-logo="" group-title="Calcio",LEGA PRO | Lucchese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30676
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Matera" tvg-logo="" group-title="Calcio",LEGA PRO | Matera
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30675
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Modena" tvg-logo="" group-title="Calcio",LEGA PRO | Modena
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30674
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Monopoli" tvg-logo="" group-title="Calcio",LEGA PRO | Monopoli
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30673
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Monza" tvg-logo="" group-title="Calcio",LEGA PRO | Monza
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30672
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Novara" tvg-logo="" group-title="Calcio",LEGA PRO | Novara
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30671
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Olbia" tvg-logo="" group-title="Calcio",LEGA PRO | Olbia
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30670
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Padova" tvg-logo="" group-title="Calcio",LEGA PRO | Padova
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30669
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Paganese" tvg-logo="" group-title="Calcio",LEGA PRO | Paganese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30668
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pergolettese" tvg-logo="" group-title="Calcio",LEGA PRO | Pergolettese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30667
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pianese" tvg-logo="" group-title="Calcio",LEGA PRO | Pianese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30666
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pisa" tvg-logo="" group-title="Calcio",LEGA PRO | Pisa
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30665
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pistoiese" tvg-logo="" group-title="Calcio",LEGA PRO | Pistoiese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30664
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pontedera" tvg-logo="" group-title="Calcio",LEGA PRO | Pontedera
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30663
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pordenone" tvg-logo="" group-title="Calcio",LEGA PRO | Pordenone
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30662
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Potenza" tvg-logo="" group-title="Calcio",LEGA PRO | Potenza
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30661
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Pro Patria" tvg-logo="" group-title="Calcio",LEGA PRO | Pro Patria
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30660
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Propatria" tvg-logo="" group-title="Calcio",LEGA PRO | Propatria
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30657
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO |  Pro Piacenza" tvg-logo="" group-title="Calcio",LEGA PRO |  Pro Piacenza
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30659
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO |  Pro vercelli" tvg-logo="" group-title="Calcio",LEGA PRO |  Pro vercelli
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30658
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Ravenna" tvg-logo="" group-title="Calcio",LEGA PRO | Ravenna
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30656
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Reggina" tvg-logo="" group-title="Calcio",LEGA PRO | Reggina
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30655
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Reggio Audace" tvg-logo="" group-title="Calcio",LEGA PRO | Reggio Audace
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30654
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Renate" tvg-logo="" group-title="Calcio",LEGA PRO | Renate
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30653
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Rende" tvg-logo="" group-title="Calcio",LEGA PRO | Rende
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30652
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Rieti" tvg-logo="" group-title="Calcio",LEGA PRO | Rieti
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30651
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Rimini" tvg-logo="" group-title="Calcio",LEGA PRO | Rimini
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30650
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO |  Robur Siena" tvg-logo="" group-title="Calcio",LEGA PRO |  Robur Siena
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30649
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Sambenedettese" tvg-logo="" group-title="Calcio",LEGA PRO | Sambenedettese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30648
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Sicula Leonzio" tvg-logo="" group-title="Calcio",LEGA PRO | Sicula Leonzio
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30647
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Siracusa" tvg-logo="" group-title="Calcio",LEGA PRO | Siracusa
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30646
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Sudtirol" tvg-logo="" group-title="Calcio",LEGA PRO | Sudtirol
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30645
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Teramo" tvg-logo="" group-title="Calcio",LEGA PRO | Teramo
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30644
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Ternana" tvg-logo="" group-title="Calcio",LEGA PRO | Ternana
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30643
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Trapani" tvg-logo="" group-title="Calcio",LEGA PRO | Trapani
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30642
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Triestina" tvg-logo="" group-title="Calcio",LEGA PRO | Triestina
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30641
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Union Arzignano Chiampo" tvg-logo="" group-title="Calcio",LEGA PRO | Union Arzignano Chiampo
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30640
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Vecomp Verona" tvg-logo="" group-title="Calcio",LEGA PRO | Vecomp Verona
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30639
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Vibonese" tvg-logo="" group-title="Calcio",LEGA PRO | Vibonese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30638
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Vicenza" tvg-logo="" group-title="Calcio",LEGA PRO | Vicenza
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30637
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Virtus Entella" tvg-logo="" group-title="Calcio",LEGA PRO | Virtus Entella
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30636
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Virtus Francavilla" tvg-logo="" group-title="Calcio",LEGA PRO | Virtus Francavilla
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30635
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Virtus Verona" tvg-logo="" group-title="Calcio",LEGA PRO | Virtus Verona
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30634
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Vis Pesaro" tvg-logo="" group-title="Calcio",LEGA PRO | Vis Pesaro
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30633
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Viterbese" tvg-logo="" group-title="Calcio",LEGA PRO | Viterbese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30632
+#EXTINF:-1 tvg-ID="" tvg-name="LEGA PRO | Viterbese Castrese" tvg-logo="" group-title="Calcio",LEGA PRO | Viterbese Castrese
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30631
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Cultura HD ---------" tvg-logo="" group-title="Cultura",---------- Cultura HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/91
+#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="National Geo HD" tvg-logo="tcp://127.0.0.1:2454?listen" group-title="Cultura",National Geo HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/92
+#EXTINF:-1 tvg-ID="NationalGeoPlus1.it" tvg-name="National Geo +1 HD" tvg-logo="#http://open-space-233.net-service.cc:63434/live/victors/8TsKZKpA0jf/466.ts" group-title="Cultura",National Geo +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/325
+#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="National Geo People HD" tvg-logo="tcp://127.0.0.1:2455?listen" group-title="Cultura",National Geo People HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/94
+#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="National Geo Wild HD" tvg-logo="tcp://127.0.0.1:2120?listen" group-title="Cultura",National Geo Wild HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/93
+#EXTINF:-1 tvg-ID="NatGeoWildPlus1.it" tvg-name="National Geo Wild +1 HD" tvg-logo="http://open-space-233.net-service.cc:63434/live/victors/8TsKZKpA0jf/466.ts" group-title="Cultura",National Geo Wild +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/326
+#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD" tvg-logo="" group-title="Cultura",Discovery HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/95
+#EXTINF:-1 tvg-ID="DiscoveryPlus1.it" tvg-name="Discovery +1 HD" tvg-logo="http://open-space-233.net-service.cc:63434/live/victors/8TsKZKpA0jf/464.ts" group-title="Cultura",Discovery +1 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/329
+#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="tcp://127.0.0.1:2600?listen" group-title="Cultura",Discovery Sci HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/96
+#EXTINF:-1 tvg-ID="History.it" tvg-name="History HD" tvg-logo="tcp://127.0.0.1:2608?listen" group-title="Cultura",History HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/102
+#EXTINF:-1 tvg-ID="HistoryPlus1.it" tvg-name="History +1" tvg-logo="" group-title="Cultura",History +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/332
+#EXTINF:-1 tvg-ID="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="tcp://127.0.0.1:2462?listen" group-title="Cultura",Sky Arte HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/103
+#EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="tcp://127.0.0.1:2459?listen" group-title="Cultura",Gambero Rosso HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/107
+#EXTINF:-1 tvg-ID="DoveTv.it" tvg-name="Dove TV" tvg-logo="" group-title="Cultura",Dove TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18625
+#EXTINF:-1 tvg-ID="Caccia.it" tvg-name="Caccia" tvg-logo="tcp://127.0.0.1:2460?listen" group-title="Cultura",Caccia
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/105
+#EXTINF:-1 tvg-ID="Pesca.it" tvg-name="Pesca" tvg-logo="tcp://127.0.0.1:2461?listen" group-title="Cultura",Pesca
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/115
+#EXTINF:-1 tvg-ID="Sky Italian Fishing" tvg-name="Italian Fisching" tvg-logo="" group-title="Cultura",Italian Fisching
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24626
+#EXTINF:-1 tvg-ID="Focus.it" tvg-name="Focus" tvg-logo="" group-title="Cultura",Focus
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/98
+#EXTINF:-1 tvg-ID="alpha59.it" tvg-name="Alpha" tvg-logo="" group-title="Cultura",Alpha
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/15427
+#EXTINF:-1 tvg-ID="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="" group-title="Cultura",Rai Storia
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6577
+#EXTINF:-1 tvg-ID="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="" group-title="Cultura",Rai Scuola
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6576
+#EXTINF:-1 tvg-ID="UNINETTUNOUniversityTV.it" tvg-name="Uninettuno University TV" tvg-logo="" group-title="Cultura",Uninettuno University TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10917
+#EXTINF:-1 tvg-ID="LaEffe.it" tvg-name="Laeffe" tvg-logo="" group-title="Cultura",Laeffe
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8696
+#EXTINF:-1 tvg-ID="Alice.it" tvg-name="Alice" tvg-logo="" group-title="Cultura",Alice
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/43
+#EXTINF:-1 tvg-ID="FoodNetwork.it" tvg-name="Food Network" tvg-logo="" group-title="Cultura",Food Network
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10914
+#EXTINF:-1 tvg-ID="Marcopolo.it" tvg-name="Marcopolo" tvg-logo="" group-title="Cultura",Marcopolo
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/109
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Musica ---------" tvg-logo="" group-title="Musica",---------- Musica ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/139
+#EXTINF:-1 tvg-ID="ClassTVModa.it" tvg-name="Classica HD" tvg-logo="tcp://127.0.0.1:2464?listen" group-title="Musica",Classica HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/161
+#EXTINF:-1 tvg-ID="RTL102.5TV.it" tvg-name="Rtl 102.5 TV" tvg-logo="" group-title="Musica",Rtl 102.5 TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/140
+#EXTINF:-1 tvg-ID="MTV.it" tvg-name="MTV HD" tvg-logo="" group-title="Musica",MTV HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7379
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Montecarlo Tv" tvg-logo="http://cms.xtream-codes.org:8000/live/TSaM1Ls5iz/eBGf9wY6p3/1689.ts" group-title="Musica",Radio Montecarlo Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/129
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Capital Tv" tvg-logo="" group-title="Musica",Radio Capital Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/122
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Tv" tvg-logo="" group-title="Musica",Radio 105 Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/119
+#EXTINF:-1 tvg-ID="RadionorbaTV.it" tvg-name="Radionorba Tv" tvg-logo="#http://maistatiuniti.dyndns.org:8000/live/germaniapassaggio/kjKzFvebmC/160.ts" group-title="Musica",Radionorba Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/162
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Italia TV" tvg-logo="" group-title="Musica",Radio Italia TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10077
+#EXTINF:-1 tvg-ID="RadioBruno.it" tvg-name="Radio Bruno TV" tvg-logo="" group-title="Musica",Radio Bruno TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/15052
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Radicale TV" tvg-logo="" group-title="Musica",Radio Radicale TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24445
+#EXTINF:-1 tvg-ID="" tvg-name="Company Tv" tvg-logo="" group-title="Musica",Company Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5326
+#EXTINF:-1 tvg-ID="TVM2.mt" tvg-name="M2o Tv" tvg-logo="http://cms.xtream-codes.org:8000/live/TSaM1Ls5iz/eBGf9wY6p3/1678.ts" group-title="Musica",M2o Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/121
+#EXTINF:-1 tvg-ID="" tvg-name="Vh-1" tvg-logo="" group-title="Musica",Vh-1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4487
+#EXTINF:-1 tvg-ID="" tvg-name="Bella TV" tvg-logo="" group-title="Musica",Bella TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24446
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MUSIC LIVE" tvg-logo="" group-title="Musica",CR-WOD MUSIC LIVE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6296
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MUSIC LIVE 2" tvg-logo="" group-title="Musica",CR-WOD MUSIC LIVE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/14767
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Bambini ---------" tvg-logo="" group-title="Bambini",---------- Bambini ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/164
+#EXTINF:-1 tvg-ID="DisneyChannel.it" tvg-name="Disney Channel HD" tvg-logo="" group-title="Bambini",Disney Channel HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/167
+#EXTINF:-1 tvg-ID="DisneyCh.Plus1.it" tvg-name="Disney Channel +1" tvg-logo="" group-title="Bambini",Disney Channel +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/168
+#EXTINF:-1 tvg-ID="DisneyXD.it" tvg-name="Disney XD" tvg-logo="tcp://127.0.0.1:2465?listen" group-title="Bambini",Disney XD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/170
+#EXTINF:-1 tvg-ID="DisneyXDPlus1.it" tvg-name="Disney XD +1" tvg-logo="" group-title="Bambini",Disney XD +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/333
+#EXTINF:-1 tvg-ID="DisneyJunior.it" tvg-name="Disney Junior" tvg-logo="tcp://127.0.0.1:2493?listen" group-title="Bambini",Disney Junior
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/171
+#EXTINF:-1 tvg-ID="DisneyJuniorPlus1.it" tvg-name="Disney Junior +1" tvg-logo="" group-title="Bambini",Disney Junior +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/172
+#EXTINF:-1 tvg-ID="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="" group-title="Bambini",Cartoon Network
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/173
+#EXTINF:-1 tvg-ID="CartoonPlus1.it" tvg-name="Cartoon +1" tvg-logo="" group-title="Bambini",Cartoon +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/174
+#EXTINF:-1 tvg-ID="Boomerang.it" tvg-name="Boomerang" tvg-logo="tcp://127.0.0.1:2491?listen" group-title="Bambini",Boomerang
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/175
+#EXTINF:-1 tvg-ID="BoomerangPlus1.it" tvg-name="Boomerang +1" tvg-logo="" group-title="Bambini",Boomerang +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/335
+#EXTINF:-1 tvg-ID="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="http://maistatiuniti.dyndns.org:8000/live/germaniapassaggio/kjKzFvebmC/110.ts" group-title="Bambini",Nickelodeon
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/176
+#EXTINF:-1 tvg-ID="NickelodeonPlus1.it" tvg-name="Nickelodeon +1" tvg-logo="" group-title="Bambini",Nickelodeon +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/338
+#EXTINF:-1 tvg-ID="NickJr.it" tvg-name="Nick Junior" tvg-logo="tcp://127.0.0.1:2466?listen" group-title="Bambini",Nick Junior
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/177
+#EXTINF:-1 tvg-ID="NickJrPlus1.it" tvg-name="Nick Junior +1" tvg-logo="" group-title="Bambini",Nick Junior +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/336
+#EXTINF:-1 tvg-ID="DEAjr.it" tvg-name="DeA Junior" tvg-logo="tcp://127.0.0.1:2468?listen" group-title="Bambini",DeA Junior
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/180
+#EXTINF:-1 tvg-ID="DeAKids.it" tvg-name="DeA Kids" tvg-logo="tcp://127.0.0.1:2469?listen" group-title="Bambini",DeA Kids
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/181
+#EXTINF:-1 tvg-ID="DeAKidsPlus1.it" tvg-name="Dea Kids +1" tvg-logo="" group-title="Bambini",Dea Kids +1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/337
+#EXTINF:-1 tvg-ID="ManGa.it" tvg-name="Man-Ga" tvg-logo="tcp://127.0.0.1:2492?listen" group-title="Bambini",Man-Ga
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/108
+#EXTINF:-1 tvg-ID="BabyTV.it" tvg-name="Baby TV" tvg-logo="" group-title="Bambini",Baby TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/179
+#EXTINF:-1 tvg-ID="Super!.it" tvg-name="Super!" tvg-logo="" group-title="Bambini",Super!
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/182
+#EXTINF:-1 tvg-ID="Cartoonito.it" tvg-name="Cartonito" tvg-logo="tcp://127.0.0.1:2700?listen" group-title="Bambini",Cartonito
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/186
+#EXTINF:-1 tvg-ID="Boing.it" tvg-name="Boing" tvg-logo="tcp://127.0.0.1:2699?listen" group-title="Bambini",Boing
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/185
+#EXTINF:-1 tvg-ID="K2.it" tvg-name="K2" tvg-logo="tcp://127.0.0.1:2743?listen" group-title="Bambini",K2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/183
+#EXTINF:-1 tvg-ID="POP.it" tvg-name="Frisbee" tvg-logo="tcp://127.0.0.1:2744?listen" group-title="Bambini",Frisbee
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/184
+#EXTINF:-1 tvg-ID="" tvg-name="PoP" tvg-logo="" group-title="Bambini",PoP
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11912
+#EXTINF:-1 tvg-ID="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="" group-title="Bambini",Rai Yoyo HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/145
+#EXTINF:-1 tvg-ID="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="" group-title="Bambini",Rai Gulp HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/144
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD APE MAIA" tvg-logo="" group-title="Bambini",CR-WOD APE MAIA
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10979
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD APE MAIA 2" tvg-logo="" group-title="Bambini",CR-WOD APE MAIA 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10981
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD APE MAIA 3" tvg-logo="" group-title="Bambini",CR-WOD APE MAIA 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11481
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD APE MAIA 4" tvg-logo="" group-title="Bambini",CR-WOD APE MAIA 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11482
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BAMBINO PINOCCHIO" tvg-logo="" group-title="Bambini",CR-WOD BAMBINO PINOCCHIO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5768
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BAMBINO PINOCCHIO 2" tvg-logo="" group-title="Bambini",CR-WOD BAMBINO PINOCCHIO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5769
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BING" tvg-logo="" group-title="Bambini",CR-WOD BING
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/30961
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD  BLAZE E LE MAGA MACCHINE" tvg-logo="" group-title="Bambini",CR-WOD  BLAZE E LE MAGA MACCHINE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11056
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BRACCIO DI FERRO" tvg-logo="" group-title="Bambini",CR-WOD BRACCIO DI FERRO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18292
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BRACCIO DI FERRO 2" tvg-logo="" group-title="Bambini",CR-WOD BRACCIO DI FERRO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18298
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BRACCIO DI FERRO 3" tvg-logo="" group-title="Bambini",CR-WOD BRACCIO DI FERRO 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18336
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BRACCIO DI FERRO 4" tvg-logo="" group-title="Bambini",CR-WOD BRACCIO DI FERRO 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18337
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BRACCIO DI FERRO CHANNEL" tvg-logo="" group-title="Bambini",CR-WOD BRACCIO DI FERRO CHANNEL
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3405
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD CANDY CANDY" tvg-logo="" group-title="Bambini",CR-WOD CANDY CANDY
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19902
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD CANDY CANDY 2" tvg-logo="" group-title="Bambini",CR-WOD CANDY CANDY 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19903
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD CANDY CANDY 3" tvg-logo="" group-title="Bambini",CR-WOD CANDY CANDY 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19904
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD BUNNY & DAFFY DUCK" tvg-logo="" group-title="Bambini",CR-WOD BUNNY & DAFFY DUCK
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3984
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON ADVENTURE" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON ADVENTURE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4870
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON ADVENTURE 2" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON ADVENTURE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4869
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON 3" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4933
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON 4" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4935
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON FRONTIER 1" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON FRONTIER 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4982
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON FRONTIER 2" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON FRONTIER 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4984
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON TRAMERS 1" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON TRAMERS 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4986
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD DIGIMON TRAMERS 2" tvg-logo="" group-title="Bambini",CR-WOD DIGIMON TRAMERS 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4988
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ESPLORANDO IL CORPO UMANO" tvg-logo="" group-title="Bambini",CR-WOD ESPLORANDO IL CORPO UMANO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5535
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD GOLDRAKE" tvg-logo="" group-title="Bambini",CR-WOD GOLDRAKE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3670
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD GOLDRAKE 2" tvg-logo="" group-title="Bambini",CR-WOD GOLDRAKE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3807
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD GOLDRAKE 3" tvg-logo="" group-title="Bambini",CR-WOD GOLDRAKE 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3824
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD HEIDI 1" tvg-logo="" group-title="Bambini",CR-WOD HEIDI 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3650
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD HEIDI 2" tvg-logo="" group-title="Bambini",CR-WOD HEIDI 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3643
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD HOLLY E BENJI" tvg-logo="" group-title="Bambini",CR-WOD HOLLY E BENJI
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4118
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD HOLLY E BENJI 2" tvg-logo="" group-title="Bambini",CR-WOD HOLLY E BENJI 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4135
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD HOLLY E BENJI 3" tvg-logo="" group-title="Bambini",CR-WOD HOLLY E BENJI 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4191
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD HOLLY E BENJI 4" tvg-logo="" group-title="Bambini",CR-WOD HOLLY E BENJI 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4472
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I CAVALIERI DELLO ZODIACO 1" tvg-logo="" group-title="Bambini",CR-WOD I CAVALIERI DELLO ZODIACO 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4644
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I CAVALIERI DELLO ZODIACO 2" tvg-logo="" group-title="Bambini",CR-WOD I CAVALIERI DELLO ZODIACO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5064
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I CAVALIERI DELLO ZODIACO 3" tvg-logo="" group-title="Bambini",CR-WOD I CAVALIERI DELLO ZODIACO 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5066
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I CAVALIERI DELLO ZODIACO 4" tvg-logo="" group-title="Bambini",CR-WOD I CAVALIERI DELLO ZODIACO 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5068
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I FLINTSTONES" tvg-logo="" group-title="Bambini",CR-WOD I FLINTSTONES
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25589
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I FLINTSTONES 2" tvg-logo="" group-title="Bambini",CR-WOD I FLINTSTONES 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25590
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I FLINTSTONES 3" tvg-logo="" group-title="Bambini",CR-WOD I FLINTSTONES 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25591
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I FLINTSTONES 4" tvg-logo="" group-title="Bambini",CR-WOD I FLINTSTONES 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25592
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I PREDATORI DEL TEMPO 1" tvg-logo="" group-title="Bambini",CR-WOD I PREDATORI DEL TEMPO 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23556
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I PREDATORI DEL TEMPO 2" tvg-logo="" group-title="Bambini",CR-WOD I PREDATORI DEL TEMPO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23557
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I PUFFI 1" tvg-logo="" group-title="Bambini",CR-WOD I PUFFI 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5260
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I PUFFI 2" tvg-logo="" group-title="Bambini",CR-WOD I PUFFI 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5285
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I PUFFI 3" tvg-logo="" group-title="Bambini",CR-WOD I PUFFI 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5317
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD I PUFFI 4" tvg-logo="" group-title="Bambini",CR-WOD I PUFFI 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5319
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5665
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA 2" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5682
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA 3" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5684
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA 4" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5686
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA 5" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA 5
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5667
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA 6" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA 6
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5690
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD INUYASHA 7" tvg-logo="" group-title="Bambini",CR-WOD INUYASHA 7
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5691
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD JEEG ROBOT D'ACCIAIO 1" tvg-logo="" group-title="Bambini",CR-WOD JEEG ROBOT D'ACCIAIO 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5420
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD JEEG ROBOT D'ACCIAIO 2" tvg-logo="" group-title="Bambini",CR-WOD JEEG ROBOT D'ACCIAIO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5421
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD KEN IL GUERRIERO" tvg-logo="" group-title="Bambini",CR-WOD KEN IL GUERRIERO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3832
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD KEN IL GUERRIERO 2" tvg-logo="" group-title="Bambini",CR-WOD KEN IL GUERRIERO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3887
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD KEN IL GUERRIERO 3" tvg-logo="" group-title="Bambini",CR-WOD KEN IL GUERRIERO 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4031
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD KEN IL GUERRIERO 4" tvg-logo="" group-title="Bambini",CR-WOD KEN IL GUERRIERO 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4045
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD KISS ME LICIA" tvg-logo="" group-title="Bambini",CR-WOD KISS ME LICIA
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19912
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD L'IMBATTIBILE DAITARN III" tvg-logo="" group-title="Bambini",CR-WOD L'IMBATTIBILE DAITARN III
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18451
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD L'IMBATTIBILE DAITARN III 2" tvg-logo="" group-title="Bambini",CR-WOD L'IMBATTIBILE DAITARN III 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18452
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD L'UOMO TIGRE" tvg-logo="" group-title="Bambini",CR-WoD L'UOMO TIGRE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8381
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD L'UOMO TIGRE 2" tvg-logo="" group-title="Bambini",CR-WoD L'UOMO TIGRE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8382
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD L'UOMO TIGRE 3" tvg-logo="" group-title="Bambini",CR-WoD L'UOMO TIGRE 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8384
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD L'UOMO TIGRE 4" tvg-logo="" group-title="Bambini",CR-WoD L'UOMO TIGRE 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8386
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD LADY OSCAR" tvg-logo="" group-title="Bambini",CR-WOD LADY OSCAR
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19896
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD LE SUPERCHICCHE" tvg-logo="" group-title="Bambini",CR-WOD LE SUPERCHICCHE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3947
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD LEONE CANE FIFONE" tvg-logo="" group-title="Bambini",CR-WOD LEONE CANE FIFONE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3986
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD LEONE CANE FIFONE 2" tvg-logo="" group-title="Bambini",CR-WOD LEONE CANE FIFONE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3990
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD LUPIN III" tvg-logo="" group-title="Bambini",CR-WOD LUPIN III
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3595
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MASHA E ORSO" tvg-logo="" group-title="Bambini",CR-WOD MASHA E ORSO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3635
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MASHA E ORSO 2" tvg-logo="" group-title="Bambini",CR-WOD MASHA E ORSO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8286
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WoD MAZINGA Z" tvg-logo="" group-title="Bambini",CR-WoD MAZINGA Z
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16507
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MAZINGA Z 2" tvg-logo="" group-title="Bambini",CR-WOD MAZINGA Z 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16512
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MAZINGA Z 3" tvg-logo="" group-title="Bambini",CR-WOD MAZINGA Z 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16519
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MAZINGA Z 4" tvg-logo="" group-title="Bambini",CR-WOD MAZINGA Z 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16543
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MILA E SHIRO" tvg-logo="" group-title="Bambini",CR-WOD MILA E SHIRO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3997
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MILA E SHIRO 2" tvg-logo="" group-title="Bambini",CR-WOD MILA E SHIRO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4004
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD MIRACULOUS" tvg-logo="" group-title="Bambini",CR-WOD MIRACULOUS
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24782
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD NAPO ORSO CAPO" tvg-logo="" group-title="Bambini",CR-WOD NAPO ORSO CAPO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/29260
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD Orso Yoghi" tvg-logo="" group-title="Bambini",CR-WOD Orso Yoghi
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/29043
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD PAPERON DE' PAPERONI" tvg-logo="" group-title="Bambini",CR-WOD PAPERON DE' PAPERONI
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5559
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD PAPERON DE' PAPERONI 2" tvg-logo="" group-title="Bambini",CR-WOD PAPERON DE' PAPERONI 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5584
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD PAPERON DE' PAPERONI 3" tvg-logo="" group-title="Bambini",CR-WOD PAPERON DE' PAPERONI 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5586
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD PAPERON DE' PAPERONI 4" tvg-logo="" group-title="Bambini",CR-WOD PAPERON DE' PAPERONI 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5588
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD PEPPA PIG" tvg-logo="" group-title="Bambini",CR-WOD PEPPA PIG
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3995
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD PIPPI CALZELUNGHE" tvg-logo="" group-title="Bambini",CR-WOD PIPPI CALZELUNGHE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6269
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ROCKY JOE" tvg-logo="" group-title="Bambini",CR-WOD ROCKY JOE
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25593
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ROCKY JOE 2" tvg-logo="" group-title="Bambini",CR-WOD ROCKY JOE 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25594
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ROCKY JOE 3" tvg-logo="" group-title="Bambini",CR-WOD ROCKY JOE 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25595
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ROCKY JOE 4" tvg-logo="" group-title="Bambini",CR-WOD ROCKY JOE 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25596
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ROCKY JOE 5" tvg-logo="" group-title="Bambini",CR-WOD ROCKY JOE 5
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/25597
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5445
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON 2" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5492
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON 3" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5509
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON 4" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5510
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON 5" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON 5
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5511
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON 6" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON 6
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5512
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAILOR MOON 7" tvg-logo="" group-title="Bambini",CR-WOD SAILOR MOON 7
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5514
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAM IL RAGAZZO DEL WEST" tvg-logo="" group-title="Bambini",CR-WOD SAM IL RAGAZZO DEL WEST
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23677
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAM IL RAGAZZO DEL WEST 2" tvg-logo="" group-title="Bambini",CR-WOD SAM IL RAGAZZO DEL WEST 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23678
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAMPEI 1" tvg-logo="" group-title="Bambini",CR-WOD SAMPEI 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18299
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAMPEI 2" tvg-logo="" group-title="Bambini",CR-WOD SAMPEI 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18338
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAMPEI 3" tvg-logo="" group-title="Bambini",CR-WOD SAMPEI 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18348
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SAMPEI 4" tvg-logo="" group-title="Bambini",CR-WOD SAMPEI 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18349
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SCOOBY DOO" tvg-logo="" group-title="Bambini",CR-WOD SCOOBY DOO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18441
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SCOOBY DOO 2" tvg-logo="" group-title="Bambini",CR-WOD SCOOBY DOO 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18442
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SPIDER-MAN" tvg-logo="" group-title="Bambini",CR-WOD SPIDER-MAN
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3450
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD SUPER PIGIAMINI" tvg-logo="" group-title="Bambini",CR-WOD SUPER PIGIAMINI
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8288
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TOM & JERRY" tvg-logo="" group-title="Bambini",CR-WOD TOM & JERRY
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3467
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TOM & JERRY 2" tvg-logo="" group-title="Bambini",CR-WOD TOM & JERRY 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3513
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TARTARUGHE NINJA" tvg-logo="" group-title="Bambini",CR-WOD TARTARUGHE NINJA
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17448
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TARTARUGHE NINJA 2" tvg-logo="" group-title="Bambini",CR-WOD TARTARUGHE NINJA 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17462
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TARTARUGHE NINJA 3" tvg-logo="" group-title="Bambini",CR-WOD TARTARUGHE NINJA 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17463
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TARTARUGHE NINJA 4" tvg-logo="" group-title="Bambini",CR-WOD TARTARUGHE NINJA 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17489
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TARTARUGHE NINJA 5" tvg-logo="" group-title="Bambini",CR-WOD TARTARUGHE NINJA 5
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17500
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD TARTARUGHE NINJA 6" tvg-logo="" group-title="Bambini",CR-WOD TARTARUGHE NINJA 6
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17501
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD VIOLETTA" tvg-logo="" group-title="Bambini",CR-WOD VIOLETTA
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3841
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD YATTAMAN 1" tvg-logo="" group-title="Bambini",CR-WOD YATTAMAN 1
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23595
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD YATTAMAN 2" tvg-logo="" group-title="Bambini",CR-WOD YATTAMAN 2
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23596
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD YATTAMAN 3" tvg-logo="" group-title="Bambini",CR-WOD YATTAMAN 3
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23597
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD YATTAMAN 4" tvg-logo="" group-title="Bambini",CR-WOD YATTAMAN 4
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/23598
+#EXTINF:-1 tvg-ID="" tvg-name="CR-WOD ZECCHINO D'ORO ANIMATO" tvg-logo="" group-title="Bambini",CR-WOD ZECCHINO D'ORO ANIMATO
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/3988
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Notizie ---------" tvg-logo="" group-title="Notizie",---------- Notizie ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/111
+#EXTINF:-1 tvg-ID="SkyTG24.it" tvg-name="Sky TG 24 HD" tvg-logo="" group-title="Notizie",Sky TG 24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/112
+#EXTINF:-1 tvg-ID="Sky24Meteo.it" tvg-name="Sky Meteo 24" tvg-logo="" group-title="Notizie",Sky Meteo 24
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13194
+#EXTINF:-1 tvg-ID="Tgcom24.it" tvg-name="Tgcom 24" tvg-logo="" group-title="Notizie",Tgcom 24
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/141
+#EXTINF:-1 tvg-ID="Tgnorba24.it" tvg-name="Tg Norba24" tvg-logo="" group-title="Notizie",Tg Norba24
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/124
+#EXTINF:-1 tvg-ID="RaiNews.it" tvg-name="Rai News 24 HD" tvg-logo="" group-title="Notizie",Rai News 24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/146
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Senato" tvg-logo="" group-title="Notizie",Rai Senato
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24441
+#EXTINF:-1 tvg-ID="" tvg-name="Euronews" tvg-logo="" group-title="Notizie",Euronews
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/128
+#EXTINF:-1 tvg-ID="" tvg-name="CNN International" tvg-logo="" group-title="Notizie",CNN International
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22794
+#EXTINF:-1 tvg-ID="" tvg-name="Videolina" tvg-logo="" group-title="Notizie",Videolina
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/149
+#EXTINF:-1 tvg-ID="" tvg-name="Tele Pace HD" tvg-logo="" group-title="Notizie",Tele Pace HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10919
+#EXTINF:-1 tvg-ID="PadrePioTV.it" tvg-name="Padre Pio TV" tvg-logo="" group-title="Notizie",Padre Pio TV
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/10916
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Regionali ---------" tvg-logo="" group-title="Regionali",---------- Regionali ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/138
+#EXTINF:-1 tvg-ID="" tvg-name="Antenna Sicilia" tvg-logo="" group-title="Regionali",Antenna Sicilia
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7971
+#EXTINF:-1 tvg-ID="" tvg-name="Lucania Tv" tvg-logo="" group-title="Regionali",Lucania Tv
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/130
+#EXTINF:-1 tvg-ID="" tvg-name="Napoli Canale 21" tvg-logo="" group-title="Regionali",Napoli Canale 21
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/5323
+#EXTINF:-1 tvg-ID="" tvg-name="Canale 7" tvg-logo="" group-title="Regionali",Canale 7
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24442
+#EXTINF:-1 tvg-ID="" tvg-name="Canale 85" tvg-logo="" group-title="Regionali",Canale 85
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/24443
+#EXTINF:-1 tvg-ID="" tvg-name="Qvc" tvg-logo="" group-title="Regionali",Qvc
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/166
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Premium Cinema ----------" tvg-logo="" group-title="Premium",---------- Premium Cinema ----------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/198
+#EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="" group-title="Premium",Premium Cinema HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/199
+#EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema  +24 HD" tvg-logo="" group-title="Premium",Premium Cinema  +24 HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26787
+#EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy HD" tvg-logo="" group-title="Premium",Premium Cinema Energy HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/204
+#EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Cinema Emotion HD" tvg-logo="" group-title="Premium",Premium Cinema Emotion HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/203
+#EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy HD" tvg-logo="" group-title="Premium",Premium Cinema Comedy HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/205
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Premium Intrattenimento ----------" tvg-logo="" group-title="Premium",---------- Premium Intrattenimento ----------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7462
+#EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="" group-title="Premium",Premium Action HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/206
+#EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="" group-title="Premium",Premium Crime HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/208
+#EXTINF:-1 tvg-ID="Stories.it" tvg-name="Premium Stories HD" tvg-logo="" group-title="Premium",Premium Stories HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/212
+#EXTINF:-1 tvg-ID="" tvg-name="--------- Canali Full HD ---------" tvg-logo="" group-title="Canali Full HD",--------- Canali Full HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7107
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 Full HD" tvg-logo="" group-title="Canali Full HD",Rai 1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7337
+#EXTINF:-1 tvg-ID="Canale 5 HD" tvg-name="Canale 5 Full HD" tvg-logo="" group-title="Canali Full HD",Canale 5 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7341
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Cinema Full HD ---------" tvg-logo="" group-title="Canali Full HD",---------- Cinema Full HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7345
+#EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Sky Cinema Uno Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Uno Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6579
+#EXTINF:-1 tvg-ID="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Uno +24 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6582
+#EXTINF:-1 tvg-ID="SkyCinemaDue.it" tvg-name="Sky Cinema Due Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Due Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17839
+#EXTINF:-1 tvg-ID="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Due +24 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/27170
+#EXTINF:-1 tvg-ID="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Collection Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/14934
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Sky Cinema Family Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Family Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6585
+#EXTINF:-1 tvg-ID="SkyCinemaAction.it" tvg-name="Sky Cinema Action Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Action Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18289
+#EXTINF:-1 tvg-ID="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspance Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Suspance Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26788
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Drama Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26789
+#EXTINF:-1 tvg-ID="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Romance Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18352
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy Full HD" tvg-logo="" group-title="Canali Full HD",Sky Cinema Comedy Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18353
+#EXTINF:-1 tvg-ID="" tvg-name="--------- Intrattenimento Full HD ---------" tvg-logo="" group-title="Canali Full HD",--------- Intrattenimento Full HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11993
+#EXTINF:-1 tvg-ID="SkyUno.it" tvg-name="Sky Uno Full HD" tvg-logo="" group-title="Canali Full HD",Sky Uno Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13987
+#EXTINF:-1 tvg-ID="SkyUnoPlus1.it" tvg-name="Sky Uno +1 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Uno +1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17842
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic Full HD" tvg-logo="tcp://127.0.0.1:2625?listen" group-title="Canali Full HD",Sky Atlantic Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/11992
+#EXTINF:-1 tvg-ID="Sky Atlantic +1 HD" tvg-name="Sky Atlantic +1 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Atlantic +1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/17843
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox Full HD" tvg-logo="" group-title="Canali Full HD",Fox Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19949
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1 Full HD" tvg-logo="" group-title="Canali Full HD",Fox +1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20190
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life Full HD" tvg-logo="" group-title="Canali Full HD",Fox Life Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19954
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1 Full HD" tvg-logo="" group-title="Canali Full HD",Fox Life +1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20191
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy Full HD" tvg-logo="" group-title="Canali Full HD",Fox Comedy Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19952
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation Full HD" tvg-logo="" group-title="Canali Full HD",Fox Animation Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19951
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime Full HD" tvg-logo="" group-title="Canali Full HD",Fox Crime Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19953
+#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1 Full HD" tvg-logo="" group-title="Canali Full HD",Fox Crime +1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20192
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="Crime Investigation Full HD" tvg-logo="" group-title="Canali Full HD",Crime Investigation Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/19950
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Sport Full HD ---------" tvg-logo="" group-title="Canali Full HD",---------- Sport Full HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6978
+#EXTINF:-1 tvg-ID="SkySport24.it" tvg-name="Sky Sport 24 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport 24 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/16752
+#EXTINF:-1 tvg-ID="SkySportUno.it" tvg-name="Sky Sport Uno Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport Uno Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6977
+#EXTINF:-1 tvg-ID="SkySportFootball.it" tvg-name="Sky Sport Football Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport Football Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18356
+#EXTINF:-1 tvg-ID="SkySportArena.it" tvg-name="Sky Sport Arena Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport Arena Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18355
+#EXTINF:-1 tvg-ID="SkySportNBA.it" tvg-name="Sky Sport NBA Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport NBA Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/18354
+#EXTINF:-1 tvg-ID="SkySportGolf.it" tvg-name="Sky Sport Golf Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport Golf Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20503
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Formula 1 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Formula 1 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13027
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Moto GP Full HD" tvg-logo="tcp://127.0.0.1:2633?listen" group-title="Canali Full HD",Sky Moto GP Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/12437
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Calcio Full HD ---------" tvg-logo="" group-title="Canali Full HD",---------- Calcio Full HD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6949
+#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="Sky Sport Serie A Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport Serie A Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6948
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Sport 251 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport 251 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/20494
+#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="Sky Sport 252 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport 252 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26795
+#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="Sky Sport 253 Full HD" tvg-logo="" group-title="Canali Full HD",Sky Sport 253 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26796
+#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="Sky Sport 254 Full HD" tvg-logo="" group-title="",Sky Sport 254 Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/26797
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 1 HD Serie A Full HD" tvg-logo="" group-title="Canali Full HD",Dazn Calcio 1 HD Serie A Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22502
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 2 HD Serie A Full HD" tvg-logo="" group-title="Canali Full HD",Dazn Calcio 2 HD Serie A Full HD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22503
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Canali per Adsl Lente ---------" tvg-logo="" group-title="Canali Per Adsl Lente",---------- Canali per Adsl Lente ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4500
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 SD" tvg-logo="http://maistatiuniti.dyndns.org:8000/live/germaniapassaggio/kjKzFvebmC/447.ts" group-title="Canali Per Adsl Lente",Rai 1 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7212
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 SD" tvg-logo="http://maistatiuniti.dyndns.org:8000/live/germaniapassaggio/kjKzFvebmC/448.ts" group-title="Canali Per Adsl Lente",Rai 2 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7213
+#EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 SD" tvg-logo="http://maistatiuniti.dyndns.org:8000/live/germaniapassaggio/kjKzFvebmC/449.ts" group-title="Canali Per Adsl Lente",Rai 3 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7214
+#EXTINF:-1 tvg-ID="Rete4.it" tvg-name="Rete 4 SD" tvg-logo="http://maistatiuniti.dyndns.org:8000/live/germaniapassaggio/kjKzFvebmC/450.ts" group-title="Canali Per Adsl Lente",Rete 4 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7215
+#EXTINF:-1 tvg-ID="Canale5.it" tvg-name="Canale 5 SD" tvg-logo="https://macchinaws.dyndns.info:25463/live/germaniapassaggio/kjKzFvebmC/451.ts" group-title="Canali Per Adsl Lente",Canale 5 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/6449
+#EXTINF:-1 tvg-ID="Italia1.it" tvg-name="Italia 1 SD" tvg-logo="https://macchinaws.dyndns.info:25463/live/germaniapassaggio/kjKzFvebmC/452.ts" group-title="Canali Per Adsl Lente",Italia 1 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/7216
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Cinema SD ---------" tvg-logo="" group-title="Canali Per Adsl Lente",---------- Cinema SD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2097
+#EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SD" tvg-logo="" group-title="Cinema",Sky Cinema Uno SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2096
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Uno +24 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2098
+#EXTINF:-1 tvg-ID="SkyCinemaDue.it" tvg-name="Sky Cinema Due SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Due SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2104
+#EXTINF:-1 tvg-ID="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Due +24 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/27137
+#EXTINF:-1 tvg-ID="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Collection SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2099
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Family SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2100
+#EXTINF:-1 tvg-ID="SkyCinemaAction.it" tvg-name="Sky Cinema Action SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Action SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2103
+#EXTINF:-1 tvg-ID="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Suspense SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2105
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Drama SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/27119
+#EXTINF:-1 tvg-ID="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Romance SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2101
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Cinema Comedy SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2102
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Intrattenimento SD ---------" tvg-logo="" group-title="Canali Per Adsl Lente",---------- Intrattenimento SD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2352
+#EXTINF:-1 tvg-ID="SkyUno.it" tvg-name="Sky Uno SD" tvg-logo="" group-title="Intrattenimento",Sky Uno SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2353
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic SD" tvg-logo="" group-title="Intrattenimento",Sky Atlantic SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2355
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox SD" tvg-logo="" group-title="Canali Per Adsl Lente",Fox SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2357
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life SD" tvg-logo="" group-title="Canali Per Adsl Lente",Fox Life SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2358
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy SD" tvg-logo="" group-title="Canali Per Adsl Lente",Fox Comedy SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2360
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation SD" tvg-logo="" group-title="Canali Per Adsl Lente",Fox Animation SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2361
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Crime SD" tvg-logo="" group-title="Canali Per Adsl Lente",Fox Crime SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2359
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="Crime Investigation SD" tvg-logo="" group-title="Canali Per Adsl Lente",Crime Investigation SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/14858
+#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Blaze SD" tvg-logo="" group-title="Canali Per Adsl Lente",Blaze SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/14859
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Sport SD ---------" tvg-logo="" group-title="Canali Per Adsl Lente",---------- Sport SD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2365
+#EXTINF:-1 tvg-ID="SkySport24.it" tvg-name="Sky Sport 24 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 24 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/68
+#EXTINF:-1 tvg-ID="SkySportUno.it" tvg-name="Sky Sport Uno SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport Uno SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/69
+#EXTINF:-1 tvg-ID="SkySportFootball.it" tvg-name="Sky Sport Football SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport Football SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2367
+#EXTINF:-1 tvg-ID="SkySportArena.it" tvg-name="Sky Sport Arena SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport Arena SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/2366
+#EXTINF:-1 tvg-ID="SkySportGolf.it" tvg-name="Sky Sport Golf SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport Golf SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/27138
+#EXTINF:-1 tvg-ID="SkySportNBA.it" tvg-name="Sky Sport NBA SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport NBA SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/71
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Formula 1 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Formula 1 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/73
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Moto GP SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Moto GP SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/72
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Calcio SD ---------" tvg-logo="" group-title="Canali Per Adsl Lente",---------- Calcio SD ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4501
+#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="Sky Sport serie A SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport serie A SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4492
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Sport 251 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 251 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4001
+#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="Sky Sport 252 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 252 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4493
+#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="Sky Sport 253 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 253 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4494
+#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="Sky Sport 254 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 254 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4495
+#EXTINF:-1 tvg-ID="SkySport255.it" tvg-name="Sky Sport 255 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 255 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4496
+#EXTINF:-1 tvg-ID="SkySport256.it" tvg-name="Sky Sport 256 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 256 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4497
+#EXTINF:-1 tvg-ID="SkySport257.it" tvg-name="Sky Sport 257 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 257 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4498
+#EXTINF:-1 tvg-ID="SkySport258.it" tvg-name="Sky Sport 258 SD" tvg-logo="" group-title="Canali Per Adsl Lente",Sky Sport 258 SD
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/4499
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Canali Per Linee Fastweb ---------" tvg-logo="" group-title="Canali Per Linee Fastweb",---------- Canali Per Linee Fastweb ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8289
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Rai 1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8675
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Rai 2 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8676
+#EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Rai 3 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8677
+#EXTINF:-1 tvg-ID="Rete4.it" tvg-name="Rete 4 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Rete 4 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8678
+#EXTINF:-1 tvg-ID="Canale5.it" tvg-name="Canale 5 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Canale 5 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8679
+#EXTINF:-1 tvg-ID="Italia1.it" tvg-name="Italia 1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Italia 1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8680
+#EXTINF:-1 tvg-ID="La7.it" tvg-name="La 7 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",La 7 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8681
+#EXTINF:-1 tvg-ID="Tv8.it" tvg-name="Tv 8 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Tv 8 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8682
+#EXTINF:-1 tvg-ID="RSILa1.ch" tvg-name="Rsi La 1 HD Fastweb" tvg-logo="" group-title="",Rsi La 1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8683
+#EXTINF:-1 tvg-ID="RSILa2.ch" tvg-name="Rsi La 2 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Rsi La 2 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8684
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Cinema HD Fastweb ---------" tvg-logo="" group-title="Canali Per Linee Fastweb",---------- Cinema HD Fastweb ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8685
+#EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Sky Cinema 1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema 1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8290
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Uno +24 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Uno +24 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8292
+#EXTINF:-1 tvg-ID="SkyCinemaDue.it" tvg-name="Sky Cinema Due HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Due HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8300
+#EXTINF:-1 tvg-ID="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Due +24 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8291
+#EXTINF:-1 tvg-ID="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Collection HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8293
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Family HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8294
+#EXTINF:-1 tvg-ID="SkyCinemaFamilyPlus1.it" tvg-name="Sky Cinema Family +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Family +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8295
+#EXTINF:-1 tvg-ID="SkyCinemaAction.it" tvg-name="Sky Cinema Action HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Action HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8298
+#EXTINF:-1 tvg-ID="SkyCinemaMaxPlus1.it" tvg-name="Sky Cinema Action +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Action +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8299
+#EXTINF:-1 tvg-ID="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Suspense HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8301
+#EXTINF:-1 tvg-ID="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Romance HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8296
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Cinema Comedy HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8297
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Intrattenimento HD Fastweb ---------" tvg-logo="" group-title="Canali Per Linee Fastweb",---------- Intrattenimento HD Fastweb ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8302
+#EXTINF:-1 tvg-ID="SkyUno.it" tvg-name="Sky Uno HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Uno HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8303
+#EXTINF:-1 tvg-ID="SkyUnoPlus1.it" tvg-name="Sky Uno +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Uno +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8304
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Atlantic HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8305
+#EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Atlantic +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8306
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8307
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8308
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox Life HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8309
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox Life +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8310
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox Crime HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8311
+#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox Crime +1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8312
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="Crime Investigation HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Crime Investigation HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8313
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox Comedy HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8314
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Fox Animation HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8315
+#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Blaze HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Blaze HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/9002
+#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Comedy Central Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8318
+#EXTINF:-1 tvg-ID="ComedyPlus1.it" tvg-name="Comedy Central +1 Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Comedy Central +1 Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8319
+#EXTINF:-1 tvg-ID="LEI.it" tvg-name="Lei Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Lei Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8316
+#EXTINF:-1 tvg-ID="LEIPlus1.it" tvg-name="Lei +1 Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Lei +1 Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8317
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Sport HD Fastweb ---------" tvg-logo="" group-title="Canali Per Linee Fastweb",---------- Sport HD Fastweb ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8336
+#EXTINF:-1 tvg-ID="SkySport24.it" tvg-name="Sky Sport 24 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 24 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8337
+#EXTINF:-1 tvg-ID="SkySportUno.it" tvg-name="Sky Sport Uno HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport Uno HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8338
+#EXTINF:-1 tvg-ID="SkySportArena.it" tvg-name="Sky Sport Arena HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport Arena HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8339
+#EXTINF:-1 tvg-ID="SkySportFootball.it" tvg-name="Sky Sport Football HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport Football HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8340
+#EXTINF:-1 tvg-ID="SkySportNBA.it" tvg-name="Sky Sport NBA HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport NBA HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8341
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Formula 1 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Formula 1 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8343
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Moto GP HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Moto GP HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8344
+#EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="Bike Channel Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Bike Channel Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8345
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Calcio HD Fastweb ---------" tvg-logo="" group-title="Canali Per Linee Fastweb",---------- Calcio HD Fastweb ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8320
+#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="Sky Sport Serie A HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport Serie A HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8321
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Sport 251 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 251 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8322
+#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="Sky Sport 252 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 252 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8323
+#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="Sky Sport 253 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 253 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8324
+#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="Sky Sport 254 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 254 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8325
+#EXTINF:-1 tvg-ID="SkySport255.it" tvg-name="Sky Sport 255 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 255 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8330
+#EXTINF:-1 tvg-ID="SkySport256.it" tvg-name="Sky Sport 256 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 256 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8331
+#EXTINF:-1 tvg-ID="SkySport257.it" tvg-name="Sky Sport 257 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 257 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8332
+#EXTINF:-1 tvg-ID="SkySport258.it" tvg-name="Sky Sport 258 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Sport 258 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/8333
+#EXTINF:-1 tvg-ID="DAZN1BarHD.it" tvg-name="Dazn Calcio 1 Serie A HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 1 Serie A HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21478
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 2 Serie A HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 2 Serie A HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21479
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 3 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 3 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21480
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 4 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 4 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21481
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 5 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 5 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21482
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 6 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 6 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21483
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 7 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 7 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21484
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 8 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 8 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21485
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 9 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 9 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21486
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 10 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 10 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21487
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 11 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 11 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21488
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 12 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 12 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21489
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 13 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 13 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/21490
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 14 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 14 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22504
+#EXTINF:-1 tvg-ID="" tvg-name="Dazn Calcio 15 HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Dazn Calcio 15 HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/22505
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Cultura HD Fastweb ---------" tvg-logo="" group-title="Canali Per Linee Fastweb",---------- Cultura HD Fastweb ---------
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13066
+#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="National Geo HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",National Geo HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13054
+#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="National Geo People Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",National Geo People Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13055
+#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="National Geo Wild Fastweb" tvg-logo="" group-title="",National Geo Wild Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13056
+#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Discovery HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13057
+#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Discovery Sci HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13058
+#EXTINF:-1 tvg-ID="History.it" tvg-name="History HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",History HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13060
+#EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Gambero Rosso HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13062
+#EXTINF:-1 tvg-ID="SkyArte.it" tvg-name="Sky Arte HD Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Sky Arte HD Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13063
+#EXTINF:-1 tvg-ID="Caccia.it" tvg-name="Caccia  Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Caccia  Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13064
+#EXTINF:-1 tvg-ID="Pesca.it" tvg-name="Pesca  Fastweb" tvg-logo="" group-title="Canali Per Linee Fastweb",Pesca  Fastweb
+http://wod2.ddns.net:80/m3h05eZiU3/SdxIZMvvTz/13065
